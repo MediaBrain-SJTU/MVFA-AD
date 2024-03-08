@@ -163,7 +163,7 @@ Results of zero-shot anomaly detection and localization:
  </tr>
  <tr height='21' style='mso-height-source:userset;height:16pt' id='r2'>
 <td height='21' class='x21' style='height:16pt;'>ChestXray</td>
-<td class='x23'><b>71.11</b></td>
+<td class='x23'>71.11</td>
 <td class='x22'>71.11</td>
 <td class='x23'>-</td>
 <td class='x22'>-</td>
@@ -221,7 +221,7 @@ Results of few-shot anomaly detection and localization with k=4:
  </tr>
  <tr height='21' style='mso-height-source:userset;height:16pt' id='r2'>
 <td height='21' class='x21' style='height:16pt;'>ChestXray</td>
-<td class='x23'><b>81.95</b></td>
+<td class='x23'>81.95</td>
 <td class='x22'>81.95</td>
 <td class='x23'>-</td>
 <td class='x22'>-</td>
