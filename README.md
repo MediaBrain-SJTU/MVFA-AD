@@ -15,13 +15,13 @@ If our work is helpful for your research, please consider citing:
 }
 ```
 
-<center><img src="images/MVFA.png "width="80%"></center>
+<center><img src="images/MVFA.png "width="60%"></center>
 
 **Abstract**:  Recent advancements in large-scale visual-language pre-trained models have led to significant progress in zero-/few-shot anomaly detection within natural image domains. However, the substantial domain divergence between natural and medical images limits the effectiveness of these methodologies in medical anomaly detection. This paper introduces a novel lightweight multi-level adaptation and comparison framework to repurpose the CLIP model for medical anomaly detection. Our approach integrates multiple residual adapters into the pre-trained visual encoder, enabling a stepwise enhancement of visual features across different levels. This multi-level adaptation is guided by multi-level, pixel-wise visual-language feature alignment loss functions, which recalibrate the model’s focus from object semantics in natural imagery to anomaly identification in medical images. The adapted features exhibit improved generalization across various medical data types, even in zero-shot scenarios where the model encounters unseen medical modalities and anatomical regions during training. Our experiments on medical anomaly detection benchmarks demonstrate that our method significantly surpasses current state-of-the-art models, with an average AUC improvement of 6.24\% and 7.33\% for anomaly classification, 2.03\% and 2.37\% for anomaly segmentation, under the zero-shot and few-shot settings, respectively.
 
 **Keywords**: Anomaly Detection, Medical Images
 
-<center><img src="images/pipeline.png "width="100%"></center>
+<center><img src="images/pipeline.png "width="80%"></center>
 
 ## Get Started
 
