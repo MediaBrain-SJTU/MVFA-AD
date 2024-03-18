@@ -4,7 +4,6 @@ This is an official implementation of “Adapting Visual-Language Models for Gen
 
 [Paper Link](https://arxiv.org/abs/)
 
-
 If our work is helpful for your research, please consider citing:
 ```
 @inproceedings{huang2024adapting,
