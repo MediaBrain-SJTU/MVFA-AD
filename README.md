@@ -2,7 +2,7 @@
 
 This is an official implementation of “Adapting Visual-Language Models for Generalizable Anomaly Detection in Medical Images” with PyTorch, accepted by CVPR 2024.
 
-[Paper Link](https://arxiv.org/abs/)
+[Paper Link](https://arxiv.org/abs/2403.12570)
 
 If our work is helpful for your research, please consider citing:
 ```
